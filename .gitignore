@@ -1,0 +1,16 @@
+# API 키가 들어 있는 환경변수 파일은 절대 올리지 않기
+.env
+.env.*
+!.env.example
+node_modules/
+.claude/
+# 개인 기록 (암호화되어 있어도 공개 저장소에는 올리지 않기)
+data/
+server.log
+server.err.log
+
+# USB용 Node 런타임 (약 99MB)
+runtime/
+
+# 별도 git 저장소
+wellness-ai-os/
