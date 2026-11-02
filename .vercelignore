@@ -1,0 +1,4 @@
+# Vercel에는 정적 앱(index.html)만 배포 — 서버·기록·키·USB 런타임은 올리지 않기
+/*
+!index.html
+!archive.ico
